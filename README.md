@@ -1,4 +1,4 @@
-# Contact Management System Using Binary Search Tree
+# Contact Search System Using Binary Search Tree
 
 ## Project Overview
 This project is a menu-driven Contact Management System developed using Java. It uses a Binary Search Tree (BST) to store and manage contact details efficiently.
